@@ -1,5 +1,6 @@
-### Hi there, hallo Leute wie geht's? como están?  👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=1A5B77&center=true&random=false&width=435&lines=Hola%2C+Soy+Jos%C3%A9+Herrera" alt="Typing SVG" /></a>
+### Hi there, hallo Leute, wie geht's? como están?  👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&center=true&random=false&width=435&lines=+Jos%C3%A9+Herrera+por+ac%C3%A1" alt="Typing SVG" /></a>
 
 **josgherg/josgherg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
