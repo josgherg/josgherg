@@ -4,9 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&center=true&random=false&width=435&lines=+Jos%C3%A9+Herrera+por+ac%C3%A1" alt="Typing SVG" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=shadow_red)
 
 **josgherg/josgherg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
