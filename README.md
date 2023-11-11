@@ -7,9 +7,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
 <!--Encabezados-->
-#Encabezado 1
-##Encabezado 2
-###Encabezado 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+
 
 **josgherg/josgherg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
