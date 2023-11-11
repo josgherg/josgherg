@@ -35,6 +35,25 @@ def hola():
 <!--Ahora con HTML-->
 <!--Imagen-->
 
+<table>
+  <tr>
+    <th>
+      ENCABEZADO 1
+    </th>
+    <th>
+      ENCABEZADO 2
+    </th>
+  </tr>
+  <tr>
+    <th>
+      Dato 1
+    </th>
+    <th>
+      Dato 2
+    </th>
+  </tr>
+</table>
+
 
 
 
