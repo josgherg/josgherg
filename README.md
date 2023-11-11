@@ -57,7 +57,7 @@ def hola():
 </table>
 
 <!--Contenedor-->
-<p>
+<p style="background-color:red;">
   
 </p>
   
