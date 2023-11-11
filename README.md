@@ -21,7 +21,7 @@
 
 [Mi Perfil](https://github.com/josgherg)
 
-![concierto]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Fsticker-gratis%2Frock-and-roll_8657436&psig=AOvVaw1GFqtVDhzuawjS2RpXThwK&ust=1699750033093000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOis9rjcuoIDFQAAAAAdAAAAABAJ](https://www.flaticon.es/sticker-gratis/rock-and-roll_8657436))
+![]()
 
 <!--Citas-->
 >Esto es una cita
@@ -34,7 +34,9 @@ def hola():
 ```
 <!--Ahora con HTML-->
 <!--Imagen-->
+<img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&center=true&random=false&width=435&lines=+Jos%C3%A9+Herrera+por+ac%C3%A1" alt="Typing SVG" />
 
+<!--Tabla-->
 <table>
   <tr>
     <th>
@@ -54,20 +56,8 @@ def hola():
   </tr>
 </table>
 
-
-
-
-
-**josgherg/josgherg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--Contenedor-->
+<p>
+  
+</p>
   
