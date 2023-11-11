@@ -58,6 +58,6 @@ def hola():
 
 <!--Contenedor-->
 <p style="background-color:red; width: 100%; height: 200px;">
-  
+  Contenedor de prueba
 </p>
   
