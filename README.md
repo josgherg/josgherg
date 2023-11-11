@@ -34,7 +34,7 @@ def hola():
 ```
 <!--Ahora con HTML-->
 <!--Imagen-->
-<img src="https://cdn-icons-png.flaticon.com/512/231/231707.png" alt="foto de prueba"/>
+<img src="https://cdn-icons-png.flaticon.com/512/231/231707.png" alt="foto de prueba" style="width: 150px; height:200px;"/>
 
 <!--Tabla-->
 <table>
