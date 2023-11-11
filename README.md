@@ -21,7 +21,7 @@
 
 [Mi Perfil](https://github.com/josgherg)
 
-![]()
+![headbanging](https://i.pinimg.com/originals/60/de/ac/60deac0500deba6835e3d9c90d099256.gif)
 
 <!--Citas-->
 >Esto es una cita
