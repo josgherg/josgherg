@@ -21,7 +21,7 @@
 
 [Mi Perfil](https://github.com/josgherg)
 
-![concierto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Fsticker-gratis%2Frock-and-roll_8657436&psig=AOvVaw1GFqtVDhzuawjS2RpXThwK&ust=1699750033093000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOis9rjcuoIDFQAAAAAdAAAAABAJ)
+![concierto]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Fsticker-gratis%2Frock-and-roll_8657436&psig=AOvVaw1GFqtVDhzuawjS2RpXThwK&ust=1699750033093000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOis9rjcuoIDFQAAAAAdAAAAABAJ](https://www.flaticon.es/sticker-gratis/rock-and-roll_8657436))
 
 <!--Citas-->
 >Esto es una cita
