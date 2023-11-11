@@ -10,6 +10,14 @@
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
+**Negritas**
+*Cursivas*
+
+- listas
+- no
+- ordenadas
+1. listas
+2. ordenadas
 
 
 **josgherg/josgherg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
