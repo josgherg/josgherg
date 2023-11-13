@@ -6,6 +6,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&center=true&random=false&width=435&lines=+Jos%C3%A9+Herrera+por+ac%C3%A1" alt="Typing SVG" />
 </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&random=false&width=435&lines=Un+programador+Jr." alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
