@@ -1,4 +1,7 @@
-### Hi there, hallo Leute, wie geht's? como están?  👋
+# Hi there!
+# Hallo Leute
+# Wie geht's?
+Hola, ¿Cómo están?  👋
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=FFC000&center=true&random=false&width=435&lines=+Jos%C3%A9+Herrera+por+ac%C3%A1" alt="Typing SVG" />
