@@ -26,7 +26,7 @@
   <img src="https://media.cheggcdn.com/media/303/303f91de-6802-4adc-942a-9a366765785c/phpPaU5Mc" width="150px" height="28px">
 </p>
 
-<p color="red">That helps me  to understand the basics of POO philosophy. Currently, I'm going through a bootcamp of Web Programming, learning a lot of new technologies such as:</p>
+<p color="red">That helps me  to understand the basics of POO philosophy. Currently, I'm going through a bootcamp of Web Programming, learning a lot of front-end technologies, such as:</p>
 
 <p>
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -36,7 +36,7 @@
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
 </p>
 
 
