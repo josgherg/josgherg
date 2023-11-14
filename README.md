@@ -4,12 +4,16 @@
 </a>
 ----
 <p>I hope you enjoy looking over my profile. I'm still learning because I was first a mecahanical engineer working on computational science, but after that,  I starter to enter in this amazing world.</p>
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
-</picture> **Here something about me:** <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px> </picture>
+
+
+</picture>  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px> </picture>
 <br>
 
 - By my bachelor degree:
-  <p>
+<p style="">
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<b>Here something about me:</b>
+</p>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qNfoFcGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/apache%2520netbeans-1B6AC6%3Fstyle%3Dfor-the-badge%26logo%3Dapache%2520netbeans%2520IDE%26logoColor%3Dwhite">
 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1lc__bQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Colab-F9AB00%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecolab%26color%3D525252">
