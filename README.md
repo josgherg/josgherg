@@ -12,7 +12,7 @@
 - By my Bachelor degree:
 <p>
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6Ri8EqF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite">
-   <img src="https://user-images.githubusercontent.com/45159366/131386330-372f5872-e005-4d35-912a-582e4020535a.png" width="150px" height="25px">
+   <img src="https://user-images.githubusercontent.com/45159366/131386330-372f5872-e005-4d35-912a-582e4020535a.png" width="150px" height="30px">
    
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qNfoFcGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/apache%2520netbeans-1B6AC6%3Fstyle%3Dfor-the-badge%26logo%3Dapache%2520netbeans%2520IDE%26logoColor%3Dwhite">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Udg_xcfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnotepad%252B%252B%26logoColor%3Dblack">
