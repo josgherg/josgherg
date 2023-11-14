@@ -15,9 +15,11 @@
 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1lc__bQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Colab-F9AB00%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecolab%26color%3D525252">
 
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Udg_xcfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnotepad%252B%252B%26logoColor%3Dblack">
+
 </p>
   
-  https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
+  
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
