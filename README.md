@@ -5,12 +5,9 @@
 
 <p>I hope you enjoy looking over my profile. I'm still learning because I was first a mecahanical engineer working on computational science, but after that,  I started to enter in this amazing world.</p>
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
-</picture>
-<p> 
-  <h2><b>Here something about me:</b></h2> 
-</p>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Something about me:**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - By my Bachelor degree:
 <p>
