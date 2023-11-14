@@ -4,8 +4,9 @@
 <hr>
 
 <p>I hope you enjoy looking over my profile. I'm still learning because I was first a mecahanical engineer working on computational science, but after that,  I started to enter in this amazing world.</p>
-<p style="display: flex;"> 
-  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<p> 
+  
   
     <b>Here something about me:</b>
   
