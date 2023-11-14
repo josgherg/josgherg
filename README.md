@@ -23,6 +23,9 @@
 <p>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1lc__bQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Colab-F9AB00%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecolab%26color%3D525252">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://media.cheggcdn.com/media/303/303f91de-6802-4adc-942a-9a366765785c/phpPaU5Mc" width="150px" height="28px">
+
+  
 
   
 </p>
