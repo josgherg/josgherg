@@ -10,7 +10,7 @@
 <br>
 
 - By my bachelor degree:
-  <img align="right" src=" https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+  <img align="right" src="[https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white](https://res.cloudinary.com/practicaldev/image/fetch/s--qNfoFcGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/apache%2520netbeans-1B6AC6%3Fstyle%3Dfor-the-badge%26logo%3Dapache%2520netbeans%2520IDE%26logoColor%3Dwhite)https://res.cloudinary.com/practicaldev/image/fetch/s--qNfoFcGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/apache%2520netbeans-1B6AC6%3Fstyle%3Dfor-the-badge%26logo%3Dapache%2520netbeans%2520IDE%26logoColor%3Dwhite">
  
   https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
   
