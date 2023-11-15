@@ -29,6 +29,7 @@
 <p>That helps me  to understand the basics of POO philosophy. Currently, I'm going through a bootcamp of Web Programming, learning a lot of front-end technologies, such as:</p>
 
 - Bootcamp LEXPIN:
+  
 <p>
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
