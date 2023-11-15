@@ -40,8 +40,8 @@
    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
 </p>
 
-<p>As I said, I'm still learning practicing over and over againg, in order to perfect thise skill and the news ones. </p>
-<img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="150px" height="28px">
+<p>As I said, I'm still learning practicing over and over again in order to perfect these skills and the news ones. </p>
+<img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="300px" align="right">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
