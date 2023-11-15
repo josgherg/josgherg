@@ -40,7 +40,7 @@
    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
 </p>
 
-<p>As I said, I'm still learning practicing over and over again in order to perfect these skills and the news ones. </p>
+<p>As I said, I'm still learning and practicing over and over again in order to perfect these skills and the news ones. </p>
 
 ```JS
 do{
@@ -48,7 +48,8 @@ do{
  practicing():
 }while(skill_fixed);
 ```
-<img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="300px" align="right" border-radius="10px">
 
+## <picture><img src = "https://i.gifer.com/74pZ.gif" width = 50px></picture> **My stats:**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
