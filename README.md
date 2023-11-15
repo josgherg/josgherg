@@ -48,13 +48,10 @@ do{
 }while(skill_fixed);
 ```
 
-## **My stats:**
+## ** Take a look of My stats:**
+<img src="https://media2.giphy.com/media/5WAdRevloGjuw/giphy.gif?cid=ecf05e47jxymfjw7rfg1dxl72sbf537l7ymnk6p8nwov5e4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" width="200px"> 
 
-<p>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
-   
-   <img src="https://media2.giphy.com/media/5WAdRevloGjuw/giphy.gif?cid=ecf05e47jxymfjw7rfg1dxl72sbf537l7ymnk6p8nwov5e4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="200px"> 
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark)
 
 
 
