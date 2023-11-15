@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
 </p>
 
-<p>As I said, I'm still learning and practicing over and over again in order to perfect these skills and the news ones. </p>
+<p>As I said, I'm still learning and practicing over and over again in order to perfect these skills and the news ones: </p>
 
 ```JS
 do{
@@ -49,7 +49,8 @@ do{
 ```
 
 ## **My stats:**
-<img src="https://media2.giphy.com/media/5WAdRevloGjuw/giphy.gif?cid=ecf05e47jxymfjw7rfg1dxl72sbf537l7ymnk6p8nwov5e4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
+
+<img src="https://media2.giphy.com/media/5WAdRevloGjuw/giphy.gif?cid=ecf05e47jxymfjw7rfg1dxl72sbf537l7ymnk6p8nwov5e4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="200px"> 
 
