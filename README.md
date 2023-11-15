@@ -41,7 +41,11 @@
 </p>
 
 <p>As I said, I'm still learning practicing over and over again in order to perfect these skills and the news ones. </p>
-<img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="300px" align="right">
+```Python
+def hola():
+  print ('hello')
+
+<img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="300px" align="right" border-radius="10px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
