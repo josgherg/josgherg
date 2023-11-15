@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Something about me:**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 550px></picture>
 
 - By my Bachelor degree:
 <p>
@@ -49,7 +49,7 @@ do{
 }while(skill_fixed);
 ```
 
-## <picture><img src = "https://i.gifer.com/74pZ.gif" width = 50px></picture> **My stats:**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **My stats:**
 <picture> <img align="right" src="https://i.gifer.com/74pZ.gif" width = 250px></picture>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
