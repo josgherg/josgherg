@@ -41,11 +41,12 @@
 </p>
 
 <p>As I said, I'm still learning practicing over and over again in order to perfect these skills and the news ones. </p>
-```javascript
+
+```JS
 do{
  learning();
  practicing():
-} while(skill_fixed);
+}while(skill_fixed);
 ```
 <img src="https://pbs.twimg.com/media/F2IFm5OWkAACUTt?format=jpg&name=small" width="300px" align="right" border-radius="10px">
 
