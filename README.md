@@ -7,8 +7,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Something about me:**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 550px></picture>
-
 - By my Bachelor degree:
 <p>
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6Ri8EqF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite">
@@ -49,7 +47,7 @@ do{
 }while(skill_fixed);
 ```
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **My stats:**
-<picture> <img align="right" src="https://i.gifer.com/74pZ.gif" width = 250px></picture>
+## <picture><img src = "https://i.gifer.com/74pZ.gif" width = 50px></picture> **My stats:**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josgherg&show_icons=true&theme=vision-friendly-dark )
 
